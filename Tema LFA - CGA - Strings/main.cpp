@@ -1,3 +1,10 @@
+/*Aceasta tema a presupus simularea unui DFA
+  DFA-ul simulat de acest program accepta caractere, numere si siruri de caractere
+  
+  Documentatie
+  DFA - https://en.wikipedia.org/wiki/Deterministic_finite_automaton
+ */
+
 #include <iostream>
 #include <fstream>
 #include <string.h>
