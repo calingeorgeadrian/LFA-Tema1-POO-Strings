@@ -1,4 +1,6 @@
 /*Aceasta tema a presupus simularea unui DFA
+  Programul primeste la intrare datele unui DFA si un cuvant ce trebuie verificat
+  daca este acceptat de DFA-ul simulat
   DFA-ul simulat de acest program accepta caractere, numere si siruri de caractere
   
   Documentatie
